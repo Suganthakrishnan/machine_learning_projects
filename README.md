@@ -1,2 +1,2 @@
 # machine_learning_projects
-here by attaching all the ml projects that i am gonna work on, YES i said that i am gonna WORK ON and not WORKED ON.
+Never too late to star, This repository contains all the ML projects from small scale to whatever scale i am gonna work on in the future :)
